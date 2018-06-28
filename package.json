@@ -4,6 +4,7 @@
   "description": "PEG grammar for Asciidoctor",
   "main": "index.js",
   "scripts": {
+    "generate": "pegjs $1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
