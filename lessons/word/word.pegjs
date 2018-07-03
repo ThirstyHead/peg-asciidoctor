@@ -1,0 +1,2 @@
+word = letter+
+letter = .
